@@ -1,4 +1,3 @@
-# The-Pig-Game-JS-
 
 /*
 GAME RULES:
